@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Estado del modulo: en desarrollo
+=======
+Estado del modulo: finalizado
+>>>>>>> feature/conflicto-b
